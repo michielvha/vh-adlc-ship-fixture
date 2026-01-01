@@ -6,6 +6,7 @@ goal: "greet prints a greeting for the name it is given."
 covers:
   - greet.sh
   - test.sh
+  - lib/
   - docs/usage.md
 ---
 

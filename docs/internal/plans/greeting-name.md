@@ -49,3 +49,9 @@ None.
 
 | Date | Review | Kind | Commit | Model | Isolation | Outcome |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-01 | R-1 | spec | `4f5929a` | fable | procedural | Fixture review. |
+| 2026-01-01 | R-1 | spec | `4f5929a` | n/a | n/a | accepted by owner |
+
+### R-1
+
+NO FINDINGS

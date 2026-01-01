@@ -50,3 +50,9 @@ None.
 
 | Date | Review | Kind | Commit | Model | Isolation | Outcome |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-01-01 | R-1 | spec | `9034eb6` | fable | procedural | Fixture review. |
+| 2026-01-01 | R-1 | spec | `9034eb6` | n/a | n/a | accepted by owner |
+
+### R-1
+
+NO FINDINGS

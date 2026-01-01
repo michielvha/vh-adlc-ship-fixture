@@ -1,7 +1,7 @@
 ---
 status: draft
 status_description: "Fixture feature: the greeting accepts a name."
-issue: "#1"
+issue: https://github.com/michielvha/vh-adlc-ship-fixture/issues/37
 goal: "greet prints a greeting for the name it is given."
 covers:
   - greet.sh

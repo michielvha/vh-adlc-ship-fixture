@@ -30,8 +30,9 @@ In scope: one name argument for `greet.sh`. Out of scope: more than one argument
       Evidence: `./test.sh` printed `PASS`.
 - [x] AC-02: `./greet.sh Grace` prints `Hello, Grace.`
       Evidence: `./test.sh` printed `PASS`.
-- [x] AC-03: `./greet.sh` with no argument prints `Hello, world.`
+- [ ] AC-03: `./greet.sh` with no argument prints `Hello, world.`
       Evidence: `./test.sh` printed `PASS`.
+      Residual: https://github.com/michielvha/vh-adlc-ship-fixture/issues/46
 
 ## Test Plan
 

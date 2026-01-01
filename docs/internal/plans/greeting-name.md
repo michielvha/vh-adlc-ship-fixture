@@ -40,7 +40,8 @@ In scope: one name argument for `greet.sh`. Out of scope: more than one argument
 
 ## Tasks
 
-None yet.
+- [x] T1 `greet.sh` - `./test.sh` passes (AC-01, AC-02, AC-03)
+      Evidence: `./test.sh` printed `PASS`.
 
 ## Open Questions
 

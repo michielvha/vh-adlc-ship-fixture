@@ -56,7 +56,22 @@ None.
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-01-01 | R-1 | spec | `63c32fe` | fable | procedural | Fixture review. |
 | 2026-01-01 | R-1 | spec | `63c32fe` | n/a | n/a | accepted by owner |
+| 2026-01-02 | R-2 | implementation | `0f8f590` | fable | procedural | Every criterion met. |
 
 ### R-1
 
 NO FINDINGS
+
+### R-2
+
+CRITERION: AC-01 `./greet.sh Ada` prints `Hello, Ada.`
+VERDICT: met
+EVIDENCE: ./test.sh, the reviewed commit, printed PASS, none
+
+CRITERION: AC-02 `./greet.sh Grace` prints `Hello, Grace.`
+VERDICT: met
+EVIDENCE: ./test.sh, the reviewed commit, printed PASS, none
+
+CRITERION: AC-03 `./greet.sh` with no argument prints `Hello, world.`
+VERDICT: untested
+EVIDENCE: ./test.sh, the reviewed commit, printed PASS, none

@@ -28,8 +28,9 @@ In scope: one name argument for `greet.sh`. Out of scope: more than one argument
 
 - [x] AC-01: `./greet.sh Ada` prints `Hello, Ada.`
       Evidence: `./test.sh` printed `PASS`.
-- [x] AC-02: `./greet.sh Grace` prints `Hello, Grace.`
+- [ ] AC-02: `./greet.sh Grace` prints `Hello, Grace.`
       Evidence: `./test.sh` printed `PASS`.
+      Evidence: R-2 returned not met.
 - [x] AC-03: `./greet.sh` with no argument prints `Hello, world.`
       Evidence: `./test.sh` printed `PASS`.
 

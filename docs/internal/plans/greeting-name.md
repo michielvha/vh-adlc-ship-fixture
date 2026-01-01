@@ -26,9 +26,12 @@ In scope: one name argument for `greet.sh`. Out of scope: more than one argument
 
 ## Acceptance Criteria
 
-- [ ] AC-01: `./greet.sh Ada` prints `Hello, Ada.`
-- [ ] AC-02: `./greet.sh Grace` prints `Hello, Grace.`
-- [ ] AC-03: `./greet.sh` with no argument prints `Hello, world.`
+- [x] AC-01: `./greet.sh Ada` prints `Hello, Ada.`
+      Evidence: `./test.sh` printed `PASS`.
+- [x] AC-02: `./greet.sh Grace` prints `Hello, Grace.`
+      Evidence: `./test.sh` printed `PASS`.
+- [x] AC-03: `./greet.sh` with no argument prints `Hello, world.`
+      Evidence: `./test.sh` printed `PASS`.
 
 ## Test Plan
 

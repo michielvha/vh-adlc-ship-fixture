@@ -1,5 +1,6 @@
 ---
-status: planned
+status: in-progress
+branch: feat/greeting-name
 status_description: "Fixture feature: the greeting accepts a name."
 issue: https://github.com/michielvha/vh-adlc-ship-fixture/issues/81
 goal: "greet prints a greeting for the name it is given."

@@ -28,11 +28,11 @@ In scope: one name argument for `greet.sh`. Out of scope: more than one argument
 ## Acceptance Criteria
 
 - [x] AC-01: `./greet.sh Ada` prints `Hello, Ada.`
-      Evidence: `./test.sh` printed `PASS`.
+      Evidence: `./test.sh`, `546659e`, printed `PASS`, none (R-3)
 - [x] AC-02: `./greet.sh Grace` prints `Hello, Grace.`
-      Evidence: `./test.sh` printed `PASS`.
+      Evidence: `./test.sh`, `546659e`, printed `PASS`, none (R-3)
 - [x] AC-03: `./greet.sh` with no argument prints `Hello, world.`
-      Evidence: `./test.sh` printed `PASS`.
+      Evidence: `./test.sh`, `546659e`, printed `PASS`, none (R-3)
 
 ## Test Plan
 
@@ -45,7 +45,7 @@ In scope: one name argument for `greet.sh`. Out of scope: more than one argument
 ## Tasks
 
 - [x] T1 `greet.sh` - `./test.sh` passes (AC-01, AC-02, AC-03)
-      Evidence: `./test.sh` printed `PASS`.
+      Evidence: `./test.sh`, `546659e`, printed `PASS`, none (R-3)
 
 ## Open Questions
 

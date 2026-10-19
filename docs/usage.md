@@ -1,3 +1,3 @@
 # Usage
 
-`./greet.sh` always prints `Hello, world.` and ignores its arguments.
+`./greet.sh <name>` prints `Hello, <name>.` With no argument, `./greet.sh` prints `Hello, world.`

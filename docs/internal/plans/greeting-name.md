@@ -1,7 +1,7 @@
 ---
-status: in-progress
+status: complete
 branch: feat/greeting-name
-status_description: "Fixture feature: the greeting accepts a name."
+status_description: "Complete: every criterion is met and review R-2 is current. The PR waits for the owner to merge."
 issue: https://github.com/michielvha/vh-adlc-ship-fixture/issues/106
 goal: "greet prints a greeting for the name it is given."
 covers:

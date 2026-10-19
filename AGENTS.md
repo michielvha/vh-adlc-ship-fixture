@@ -1,0 +1,19 @@
+# Repository instructions
+
+Read the personal conventions at
+https://github.com/vhco-pro/docs/blob/9773af496b3dfefaf9eb5b693d2b102ccb0044d0/AGENTS.md
+and follow the task routes there before implementation.
+
+For all code, read conventions/coding.md at that revision.
+To specify, plan or implement a feature, read conventions/feature-documents.md.
+For Go, also read conventions/go.md; for images, conventions/containers.md;
+for CI and releases, conventions/delivery.md and knowledge/shared-delivery.md.
+When onboarding or bootstrapping, read the matching guides/ page.
+
+Load only the relevant documents. If they are inaccessible, report it and stop.
+Preserve this repository's local instructions; report a conflict instead of
+silently overriding either source.
+
+## Local commands and constraints
+
+- Test: `./test.sh` prints `PASS` on success.
